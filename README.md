@@ -1,5 +1,5 @@
 # meu-primeiro-repositorio
-👋 Olá, eu sou [Mariana Dos Santos Ferreira]
+👋 Olá, eu sou [Paulo Miguel Dos Santos Berto]
 📌 Sobre mim
 Idade: [18]
 Curso: [técnico pra internet]
